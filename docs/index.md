@@ -4,6 +4,8 @@
 [![image](https://img.shields.io/pypi/v/geosdevpy.svg)](https://pypi.python.org/pypi/geosdevpy)
 
 
+[![logo](https://github.com/gsc-cmgd/geosdevpy/tree/main/docs/assets/logo.png)](https://github.com/gsc-cmgd/geosdevpy/tree/main/docs/assets/logo.png)
+
 **Python dev package**
 
 
