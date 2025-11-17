@@ -10,7 +10,7 @@
 
 -   Free software: MIT License
 -   Documentation: https://gsc-cmgd.github.io/geosdevpy
-    
+
 
 ## Features
 
