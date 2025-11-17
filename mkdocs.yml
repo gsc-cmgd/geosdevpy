@@ -81,6 +81,7 @@ nav:
     - Report Issues: https://github.com/gsc-cmgd/geosdevpy/issues
     - Examples:
         - examples/intro.ipynb
+        - examples/map.ipynb
     - API Reference:
           - geosdevpy module: geosdevpy.md
           - common module: common.md
