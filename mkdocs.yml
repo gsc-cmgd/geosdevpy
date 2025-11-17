@@ -9,7 +9,7 @@ copyright: "Copyright &copy; 2024 - 2024 gsc cmgd"
 theme:
     palette:
         - scheme: default
-          #   primary: blue
+          primary: blue
           #   accent: indigo
           toggle:
               icon: material/toggle-switch-off-outline
@@ -23,8 +23,9 @@ theme:
     name: material
     icon:
         repo: fontawesome/brands/github
+        #repo: fontawesome/solid/earth-americas # or another earth icon variant
     # logo: assets/logo.png
-    # favicon: assets/favicon.png
+    #favicon: assets/favicon.png
     features:
         - navigation.instant
         - navigation.tracking
